@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_portfolio_preview_images",
+  "info": {
+    "displayName": "Preview Image"
+  },
+  "options": {},
+  "attributes": {
+    "image": {
+      "type": "media",
+      "multiple": false,
+      "allowedTypes": [
+        "images"
+      ]
+    }
+  },
+  "config": {}
+}

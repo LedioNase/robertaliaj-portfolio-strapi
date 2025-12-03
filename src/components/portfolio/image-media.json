@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_portfolio_image_medias",
+  "info": {
+    "displayName": "Image Media",
+    "icon": "picture"
+  },
+  "options": {},
+  "attributes": {
+    "image": {
+      "type": "media",
+      "multiple": false,
+      "allowedTypes": [
+        "images"
+      ]
+    },
+    "description": {
+      "type": "text"
+    }
+  },
+  "config": {}
+}

@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_portfolio_external_videos",
+  "info": {
+    "displayName": "External Video"
+  },
+  "options": {},
+  "attributes": {
+    "url": {
+      "type": "string",
+      "required": true
+    },
+    "description": {
+      "type": "text"
+    }
+  },
+  "config": {}
+}
