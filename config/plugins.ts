@@ -1,1 +1,5 @@
-export default () => ({});
+export default () => ({
+  'cloud-cronjob-runner': {
+    enabled: false,
+  },
+});
