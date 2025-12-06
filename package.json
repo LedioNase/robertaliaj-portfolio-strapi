@@ -2,7 +2,7 @@
   "name": "robertaliaj-portfolio-adminpanel",
   "version": "0.1.0",
   "private": true,
-  "description": "A Strapi application for Robert Aliaj Dragot portfolio content management",
+  "description": "A Strapi application for Robert Aliaj Dragot portfolio",
   "scripts": {
     "build": "strapi build",
     "console": "strapi console",
