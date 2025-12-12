@@ -4,9 +4,9 @@ export default () => ({
   },
   upload: {
     config: {
+      sizeLimit: 512 * 1024 * 1024,
       security: {
-        enabled: true,
-        fileTypes: ['image', 'video', 'audio', 'pdf', 'text'],
+        allowedExtensions: ['.jpg', '.jpeg', '.png', '.gif', '.webp', '.svg', '.mp4', '.mp3', '.pdf', '.txt', '.doc', '.docx'],
       },
     },
   },
